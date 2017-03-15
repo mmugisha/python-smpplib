@@ -7,7 +7,7 @@ if sys.version_info >= (3,):
 
 setup(name="python-smpplib",
       version='1.0.1',
-      url='https://github.com/podshumok/python-smpplib',
+      url='https://github.com/mmugisha/python-smpplib',
       description='SMPP library for python',
       packages=find_packages(),
       zip_safe=True,
